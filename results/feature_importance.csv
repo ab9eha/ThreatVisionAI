@@ -1,0 +1,6 @@
+Feature,Importance
+Failed_Logins,0.27
+Port_Requests,0.26
+Connection_Count,0.22
+Packet_Size,0.19
+Login_Hour,0.06
