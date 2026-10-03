@@ -13,10 +13,10 @@ The project combines **Python, machine learning, cybersecurity, data analysis, e
 ## 🚀 Live Demo
 
 **Streamlit App:**
-Add your deployed Streamlit URL here.
+https://threatvisionai-tbjsuzvrwlktwy2pcknsfj.streamlit.app/
 
 **GitHub Repository:**
-Add your GitHub repository URL here.
+https://github.com/ab9eha/ThreatVisionAI.git
 
 ---
 
