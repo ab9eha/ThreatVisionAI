@@ -215,7 +215,7 @@ ThreatVisionAI/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ab9eha/ThreatVisionAI.git
 ```
 
 Move into the project directory:
